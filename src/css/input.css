@@ -20,3 +20,11 @@
 .btn-submit:hover{
     @apply bg-teal-700;
 }
+
+.btn-learn-more{
+    @apply border-2 border-pink-300 text-gray-700 rounded-full py-1 px-8 inline-block mt-8;
+}
+
+.btn-learn-more:hover{
+    @apply bg-purple-700 text-white;
+}
